@@ -69,7 +69,7 @@ Final dataset: **702,393 rows, 5,322 customers.**
 | New | R ≥ 4 and F = 1 |
 | Others | everyone else |
 
-![Revenue by segment](images/chart1_revenue.png)
+![Revenue by segment](chart1_revenue.png)
 
 ---
 
@@ -109,7 +109,7 @@ Channel mix differs by segment (e.g. Lost gets email only; Champions get email, 
 
 ### Is the recommendation robust?
 
-![Sensitivity of ROI to the success rate](images/chart2_sensitivity.png)
+![Sensitivity of ROI to the success rate](chart2_sensitivity.png)
 
 - **Champions lose money at every success rate tested.**
 - **At-Risk and Loyal** are the most sensitive. Both lose money at 5% and pay off from about 10%.
@@ -143,20 +143,9 @@ Channel mix differs by segment (e.g. Lost gets email only; Champions get email, 
 
 ---
 
-## Repository structure
-
-```
-├── Customer_Segmentation_and_RFM_Analysis.ipynb
-├── images/
-│   ├── chart1_revenue.png
-│   ├── chart2_sensitivity.png
-│   └── chart3_allocation.png
-└── README.md
-```
-
 ## How to run
 
-1. Download `online_retail_II.csv` from the [UCI repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii) and place it in the same folder as the notebook. (The file is ~94 MB, so it is not included here.)
+1. Download `online_retail_II.csv`.
 2. Install the requirements: `pip install pandas numpy matplotlib jupyter`
 3. Open the notebook and choose **Kernel → Restart & Run All**.
 
@@ -164,4 +153,4 @@ Channel mix differs by segment (e.g. Lost gets email only; Champions get email, 
 
 ## About me
 
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com)
+**Ishika Mittal** · [LinkedIn](https://www.linkedin.com/in/ishikamittalofficial/) · [Email](mailto:ishikamital142@gmail.com)
