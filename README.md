@@ -3,7 +3,7 @@
 > **Business question:** Which customer segments give the highest ROI on retention campaigns, and how should the marketing team allocate budget?
 
 **Tools:** Python (pandas, NumPy, Matplotlib) · Jupyter Notebook                             
-**Data:** [UCI Online Retail II] (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)(UK online gift retailer, Dec 2009 – Dec 2011)                 
+**Data:** [UCI Online Retail II] (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) (UK online gift retailer, Dec 2009 – Dec 2011)                 
 
 ---
 
