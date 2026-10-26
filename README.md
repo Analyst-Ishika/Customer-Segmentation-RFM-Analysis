@@ -15,7 +15,7 @@ I segmented 5,322 UK customers with RFM scoring and built an ROI model to split 
 - **At-Risk, Others and New** are funded in full. **Loyal** gets the remaining £287, spent on its 266 highest-value targets.
 - Expected net profit is **~£4,200**, or up to **~£13,000** if the Lost segment responds as assumed. About two-thirds of that upside rests on a single assumption, so I report both numbers.
 
-![Budget allocation](chart3_allocation.png)
+![Budget allocation](images/chart3_allocation.png)
 
 ---
 
@@ -69,7 +69,7 @@ Final dataset: **702,393 rows, 5,322 customers.**
 | New | R ≥ 4 and F = 1 |
 | Others | everyone else |
 
-![Revenue by segment](chart1_revenue.png)
+![Revenue by segment](images/chart1_revenue.png)
 
 ---
 
@@ -109,7 +109,7 @@ Channel mix differs by segment (e.g. Lost gets email only; Champions get email, 
 
 ### Is the recommendation robust?
 
-![Sensitivity of ROI to the success rate](chart2_sensitivity.png)
+![Sensitivity of ROI to the success rate](images/chart2_sensitivity.png)
 
 - **Champions lose money at every success rate tested.**
 - **At-Risk and Loyal** are the most sensitive. Both lose money at 5% and pay off from about 10%.
