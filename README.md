@@ -15,7 +15,7 @@ I segmented 5,322 UK customers with RFM scoring and built an ROI model to split 
 - **At-Risk, Others and New** are funded in full. **Loyal** gets the remaining £287, spent on its 266 highest-value targets.
 - Expected net profit is **~£4,200**, or up to **~£13,000** if the Lost segment responds as assumed. About two-thirds of that upside rests on a single assumption, so I report both numbers.
 
-![Budget allocation](images/chart3_allocation.png)
+![Budget allocation](chart3_allocation.png)
 
 ---
 
